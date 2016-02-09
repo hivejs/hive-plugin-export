@@ -1,6 +1,5 @@
 var vdom = require('virtual-dom')
   , h = vdom.h
-  , match = require('mime-match')
 
 module.exports = setup
 module.exports.consumes = ['ui', 'api']
