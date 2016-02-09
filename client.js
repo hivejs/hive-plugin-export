@@ -64,7 +64,7 @@ function setup(plugin, imports, register) {
   var exportProvider = {
     action_export: function *(exportType) {
       try {
-      yield importexport.action_exporting(exportType)
+      yield exportProvider.action_exporting(exportType)
       var documentId = ui.store.getState().editor.document.id
       var document = yield api.action_document_get(documentId)
       var blob = yield api.action_snapshot_export(document.latestSnapshot, exportType)
@@ -127,7 +127,7 @@ function setup(plugin, imports, register) {
           }
         , ui._('plugin-export/format-'+exportType.replace('/', '-'))()
         +(state.exporting === exportType?
-            ' '+ui._('importexport/exporting')()
+            ' '+ui._('plugin-export/exporting')()
           : ''
         )
         ))
