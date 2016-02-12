@@ -1,0 +1,16 @@
+{
+  "plugin-export": {
+      "export": "A menu item for a dropdown"
+    , "exporting": "Displayed next to an export format, if the user chose to export the document to this format."
+    , "format-text-plain": "An export format option"
+    , "format-text-html": "An export format option"
+    , "format-image-svg+xml": "An export format option"
+    , "format-image-png": "An export format option"
+    , "format-text-markdown": "An export format option"
+    , "format-application-x-latex": "An export format option"
+    , "format-application-vnd.openxmlformats-officedocument.wordprocessingml.document": "An export format option"
+    , "format-application-vnd.oasis.opendocument.text": "An export format option"
+    , "format-application-docbook+xml": "An export format option"
+    , "format-application-epub+zip": "An export format option"
+  }
+}
