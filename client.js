@@ -103,8 +103,13 @@ function setup(plugin, imports, register) {
           , 'aria-haspopup': 'true'
           , 'aria-expanded': state.showDropdown? 'true' : 'false'
           }
+        , title: ui._('plugin-export/export')()
         }
-      , [ui._('plugin-export/export')(), h('span.caret') ]
+      , [
+          h('span.sr-only', ui._('plugin-export/export')())
+        , h('i.glyphicon.glyphicon-export')
+        , h('span.caret')
+        ]
       )
     , h('ul.dropdown-menu'
       , { attributes: {'aria-labelledby':'exportMenu'}
@@ -117,7 +122,8 @@ function setup(plugin, imports, register) {
   function renderExportDropdown(store) {
     var document = store.getState().editor.document
     var state = store.getState()['export']
-    return (
+    return [h('li.dropdown-header', ui._('plugin-export/export')())]
+    .concat(
       state.exportTypes[document.type].map(exportType => {
         return h('li', h('a'
         , { href:'javascript:void(0)'
