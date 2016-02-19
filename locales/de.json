@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Metalhead64"
+		]
+	},
+	"plugin-export": {
+		"export": "Exportieren",
+		"exporting": "(Exportiere …)",
+		"format-text-plain": "Klartext",
+		"format-application-vnd.openxmlformats-officedocument.wordprocessingml.document": "Microsoft-Word-Dokument",
+		"format-application-vnd.oasis.opendocument.text": "Open-Text-Dokument (LibreOffice)"
+	}
+}

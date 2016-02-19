@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nike"
+		]
+	},
+	"plugin-export": {
+		"export": "Vie",
+		"exporting": "(Viedään...)",
+		"format-text-plain": "Muotoilematon teksti",
+		"format-text-html": "HTML",
+		"format-image-svg+xml": "SVG",
+		"format-image-png": "PNG",
+		"format-text-markdown": "Markdown",
+		"format-application-x-latex": "LaTex",
+		"format-application-vnd.openxmlformats-officedocument.wordprocessingml.document": "Microsoft Word -asiakirja",
+		"format-application-vnd.oasis.opendocument.text": "Open Text Document (LibreOffice)",
+		"format-application-docbook+xml": "DocBook",
+		"format-application-epub+zip": "EPUB"
+	}
+}

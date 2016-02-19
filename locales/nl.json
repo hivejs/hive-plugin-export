@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Siebrand"
+		]
+	},
+	"plugin-export": {
+		"export": "Exporteren",
+		"exporting": "(Bezig met exporteren...)",
+		"format-text-plain": "Tekst zonder opmaak",
+		"format-application-vnd.openxmlformats-officedocument.wordprocessingml.document": "Microsoft Word-document",
+		"format-application-vnd.oasis.opendocument.text": "Open Text-document (LibreOffice)"
+	}
+}

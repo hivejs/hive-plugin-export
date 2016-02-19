@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Gomoko"
+		]
+	},
+	"plugin-export": {
+		"export": "Exporter",
+		"exporting": "(Exportation…)",
+		"format-text-plain": "Texte brut",
+		"format-text-html": "HTML",
+		"format-image-svg+xml": "SVG",
+		"format-image-png": "PNG",
+		"format-text-markdown": "Markdown",
+		"format-application-x-latex": "LaTeX",
+		"format-application-vnd.openxmlformats-officedocument.wordprocessingml.document": "Document Microsoft Word",
+		"format-application-vnd.oasis.opendocument.text": "Document Open Text (LibreOffice)",
+		"format-application-docbook+xml": "DocBook",
+		"format-application-epub+zip": "EPUB"
+	}
+}

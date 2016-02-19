@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Beta16"
+		]
+	},
+	"plugin-export": {
+		"export": "Esporta",
+		"format-text-plain": "Testo normale",
+		"format-application-vnd.openxmlformats-officedocument.wordprocessingml.document": "Documento di Microsoft Word"
+	}
+}

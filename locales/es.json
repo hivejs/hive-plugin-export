@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Macofe"
+		]
+	},
+	"plugin-export": {
+		"export": "Exportar",
+		"exporting": "(Exportando...)",
+		"format-text-plain": "Texto sin formato",
+		"format-application-vnd.openxmlformats-officedocument.wordprocessingml.document": "Documento de Microsoft Word",
+		"format-application-vnd.oasis.opendocument.text": "Documento de texto abierto (LibreOffice)"
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Okras"
+		]
+	},
+	"plugin-export": {
+		"export": "Экспортировать",
+		"exporting": "(Экспорт…)",
+		"format-text-plain": "Обычный текст",
+		"format-application-vnd.openxmlformats-officedocument.wordprocessingml.document": "Документ Microsoft Word",
+		"format-application-vnd.oasis.opendocument.text": "Документ в формате Open Text (LibreOffice)"
+	}
+}

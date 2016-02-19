@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aftabuzzaman"
+		]
+	},
+	"plugin-export": {
+		"export": "রপ্তানি",
+		"exporting": "(রফতানি করা হচ্ছে...)",
+		"format-text-plain": "সরল লেখা",
+		"format-application-vnd.openxmlformats-officedocument.wordprocessingml.document": "মাইক্রোসফট ওয়ার্ড ডকুমেন্ট",
+		"format-application-vnd.oasis.opendocument.text": "ওপেন টেক্সট ডকুমেন্ট (LibreOffice)"
+	}
+}

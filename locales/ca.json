@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Macofe"
+		]
+	},
+	"plugin-export": {
+		"export": "Exporta",
+		"exporting": "(Exportant...)",
+		"format-text-plain": "Text net"
+	}
+}
