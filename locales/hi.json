@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Sfic"
+		]
+	},
+	"plugin-export": {
+		"export": "निर्यात",
+		"exporting": "(निर्यात कर रहा...)",
+		"format-text-plain": "सादा पाठ",
+		"format-application-vnd.openxmlformats-officedocument.wordprocessingml.document": "माइक्रोसॉफ़्ट वर्ड डॉक्युमेंट"
+	}
+}

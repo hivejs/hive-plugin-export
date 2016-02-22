@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"WikiPhoenix"
+		]
+	},
+	"plugin-export": {
+		"export": "Exportera",
+		"exporting": "(Exporterar...)",
+		"format-text-plain": "Oformaterad text",
+		"format-application-vnd.openxmlformats-officedocument.wordprocessingml.document": "Microsoft Word-dokument"
+	}
+}

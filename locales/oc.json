@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Cedric31"
+		]
+	},
+	"plugin-export": {
+		"export": "Exportar",
+		"exporting": "(Expòrt en cors...)",
+		"format-text-plain": "Tèxte brut",
+		"format-application-vnd.openxmlformats-officedocument.wordprocessingml.document": "Document Microsoft Word",
+		"format-application-vnd.oasis.opendocument.text": "Document Open Text (LibreOffice)"
+	}
+}
