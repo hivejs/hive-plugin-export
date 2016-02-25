@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"SuperPotato"
+		]
+	},
+	"plugin-export": {
+		"export": "Eksporter",
+		"exporting": "(Exporterer...)",
+		"format-text-plain": "Ren tekst",
+		"format-application-vnd.openxmlformats-officedocument.wordprocessingml.document": "Microsoft Word-dokument",
+		"format-application-vnd.oasis.opendocument.text": "Åpent tekst-dokument (LibreOffice)"
+	}
+}

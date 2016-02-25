@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Lxlalexlxl"
+		]
+	},
+	"plugin-export": {
+		"export": "Експорт",
+		"exporting": "(Експорт...)",
+		"format-text-plain": "Простий текст",
+		"format-application-vnd.openxmlformats-officedocument.wordprocessingml.document": "Документ Microsoft Word",
+		"format-application-vnd.oasis.opendocument.text": "Документ у форматі Open Text (LibreOffice)"
+	}
+}

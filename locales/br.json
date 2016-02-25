@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Gwenn-Ael"
+		]
+	},
+	"plugin-export": {
+		"export": "Ezporzhiañ",
+		"exporting": "(Oc'h ezporzhiañ...)",
+		"format-text-plain": "Testenn blaen",
+		"format-application-vnd.openxmlformats-officedocument.wordprocessingml.document": "Teul Microsoft Word",
+		"format-application-vnd.oasis.opendocument.text": "Teul Open Text (LibreOffice)"
+	}
+}
