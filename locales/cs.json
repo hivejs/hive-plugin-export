@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aktron"
+		]
+	},
+	"plugin-export": {
+		"format-application-vnd.openxmlformats-officedocument.wordprocessingml.document": "Dokument Aplikace Microsoft Word",
+		"format-application-vnd.oasis.opendocument.text": "Dokument Open Text (LibreOffice)"
+	}
+}
