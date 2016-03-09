@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Zygimantus"
+		]
+	},
+	"plugin-export": {
+		"export": "Eksportuoti",
+		"exporting": "(Eksportuojama...)",
+		"format-text-plain": "Paprastas tekstas",
+		"format-application-vnd.openxmlformats-officedocument.wordprocessingml.document": "„Microsoft Word“ dokumentas",
+		"format-application-vnd.oasis.opendocument.text": "„Open Text“ dokumentas („LibreOffice“)"
+	}
+}
