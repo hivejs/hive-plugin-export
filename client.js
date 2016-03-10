@@ -86,7 +86,7 @@ function setup(plugin, imports, register) {
   ui.onRenderNavbarRight((store, children) => {
     var state = store.getState()
     if(!state.editor.editor) return
-    if(state['export'].exportTypes[state.editor.document.type]) {
+    if(state['export'].exportTypes[state.editor.document.attributes.type]) {
       children.unshift(renderExport(store))
     }
   })
@@ -124,7 +124,7 @@ function setup(plugin, imports, register) {
     var state = store.getState()['export']
     return [h('li.dropdown-header', ui._('plugin-export/export')())]
     .concat(
-      state.exportTypes[document.type].map(exportType => {
+      state.exportTypes[document.attributes.type].map(exportType => {
         return h('li', h('a'
         , { href:'javascript:void(0)'
           , 'ev-click': evt => store.dispatch(
