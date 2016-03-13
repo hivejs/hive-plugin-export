@@ -66,7 +66,7 @@ function setup(plugin, imports, register) {
       yield exportProvider.action_exporting(exportType)
       var documentId = ui.store.getState().editor.document.id
       var document = yield api.action_document_get(documentId)
-      var blob = yield api.action_snapshot_export(document.latestSnapshot, exportType)
+      var blob = yield api.action_snapshot_export(document.attributes.latestSnapshot, exportType)
       yield {type: EXPORTED, payload: {type: exportType, blob}}
       }catch(e) {
         console.error(e)
