@@ -86,7 +86,7 @@ function setup(plugin, imports, register) {
   ui.onRenderNavbarRight((store, children) => {
     var state = store.getState()
     if(!state.editor.editor) return
-    if(state['export'].exportTypes[state.editor.document.attributes.type]) {
+    if(state.editor.document && state['export'].exportTypes[state.editor.document.attributes.type]) {
       children.unshift(renderExport(store))
     }
   })
