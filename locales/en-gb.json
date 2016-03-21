@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Andibing"
+		]
+	},
+	"plugin-export": {
+		"export": "Export",
+		"exporting": "(Exporting...)",
+		"format-text-plain": "Plain text",
+		"format-application-vnd.openxmlformats-officedocument.wordprocessingml.document": "Microsoft Word Document",
+		"format-application-vnd.oasis.opendocument.text": "Open Text Document (LibreOffice)"
+	}
+}
