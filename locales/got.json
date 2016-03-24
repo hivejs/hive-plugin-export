@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Gothicspeaker"
+		]
+	},
+	"plugin-export": {
+		"export": "𐌿𐍄𐌱𐌰𐌹𐍂",
+		"exporting": "(𐌿𐍄𐌱𐌰𐌹𐍂𐌰𐌽𐌳𐍉...)",
+		"format-application-vnd.openxmlformats-officedocument.wordprocessingml.document": "Microsoft Word Document",
+		"format-application-vnd.oasis.opendocument.text": "Open Text Document (LibreOffice)"
+	}
+}
