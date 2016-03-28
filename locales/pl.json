@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mateon1"
+		]
+	},
+	"plugin-export": {
+		"export": "Eksportuj",
+		"exporting": "(Eksportowanie...)",
+		"format-text-plain": "Zwykły tekst",
+		"format-application-vnd.openxmlformats-officedocument.wordprocessingml.document": "Dokument Programu Microsoft Word",
+		"format-application-vnd.oasis.opendocument.text": "Dokument w formacie Open Text (LibreOffice)"
+	}
+}
