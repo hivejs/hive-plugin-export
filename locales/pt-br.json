@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Luk3"
+		]
+	},
+	"plugin-export": {
+		"export": "Exportar",
+		"exporting": "(Exportando...)",
+		"format-text-plain": "Texto simples",
+		"format-application-vnd.openxmlformats-officedocument.wordprocessingml.document": "Documento de Microsoft Word",
+		"format-application-vnd.oasis.opendocument.text": "Abrir Documento de Texto (LibreOffice)"
+	}
+}
