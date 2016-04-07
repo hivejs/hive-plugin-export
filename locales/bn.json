@@ -1,14 +1,21 @@
 {
 	"@metadata": {
 		"authors": [
-			"Aftabuzzaman"
+			"Aftabuzzaman",
+			"এম আবু সাঈদ"
 		]
 	},
 	"plugin-export": {
 		"export": "রপ্তানি",
 		"exporting": "(রফতানি করা হচ্ছে...)",
 		"format-text-plain": "সরল লেখা",
+		"format-text-html": "HTML",
+		"format-image-svg+xml": "SVG",
+		"format-image-png": "PNG",
+		"format-application-x-latex": "LaTex",
 		"format-application-vnd.openxmlformats-officedocument.wordprocessingml.document": "মাইক্রোসফট ওয়ার্ড ডকুমেন্ট",
-		"format-application-vnd.oasis.opendocument.text": "ওপেন টেক্সট ডকুমেন্ট (LibreOffice)"
+		"format-application-vnd.oasis.opendocument.text": "ওপেন টেক্সট ডকুমেন্ট (LibreOffice)",
+		"format-application-docbook+xml": "ডকবুক",
+		"format-application-epub+zip": "EPUB"
 	}
 }
