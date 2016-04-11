@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Янмурза Баки"
+		]
+	},
+	"plugin-export": {
+		"export": "Сығарырға",
+		"exporting": "(Экспорт…)",
+		"format-text-plain": "Ғәҙәти яҙма",
+		"format-application-vnd.openxmlformats-officedocument.wordprocessingml.document": " Microsoft Word документы",
+		"format-application-vnd.oasis.opendocument.text": " Open Text (LibreOffice) форматындағы документ"
+	}
+}
