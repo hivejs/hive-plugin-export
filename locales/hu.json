@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Wolf Rex"
+		]
+	},
+	"plugin-export": {
+		"export": "Exportálás",
+		"exporting": "(Exportálás...)",
+		"format-text-plain": "Egyszerű szöveg",
+		"format-application-vnd.openxmlformats-officedocument.wordprocessingml.document": "Microsoft Word dokumentum",
+		"format-application-vnd.oasis.opendocument.text": "Open Text dokumentum (LibreOffice)"
+	}
+}
