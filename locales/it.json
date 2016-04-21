@@ -6,7 +6,9 @@
 	},
 	"plugin-export": {
 		"export": "Esporta",
+		"exporting": "(Esportazione...)",
 		"format-text-plain": "Testo normale",
-		"format-application-vnd.openxmlformats-officedocument.wordprocessingml.document": "Documento di Microsoft Word"
+		"format-application-vnd.openxmlformats-officedocument.wordprocessingml.document": "Documento di Microsoft Word",
+		"format-application-vnd.oasis.opendocument.text": "Testo OpenDocument (LibreOffice)"
 	}
 }
