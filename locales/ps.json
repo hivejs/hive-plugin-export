@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ahmed-Najib-Biabani-Ibrahimkhel"
+		]
+	},
+	"plugin-export": {
+		"export": "صادرول",
+		"format-text-plain": "ساده متن",
+		"format-application-vnd.openxmlformats-officedocument.wordprocessingml.document": "مايکروسافټ ورډ لاسوند"
+	}
+}
