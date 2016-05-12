@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Янмурза Баки"
+			"Янмурза Баки",
+			"Ләйсән"
 		]
 	},
 	"plugin-export": {
@@ -9,6 +10,6 @@
 		"exporting": "(Экспорт…)",
 		"format-text-plain": "Ғәҙәти яҙма",
 		"format-application-vnd.openxmlformats-officedocument.wordprocessingml.document": " Microsoft Word документы",
-		"format-application-vnd.oasis.opendocument.text": " Open Text (LibreOffice) форматындағы документ"
+		"format-application-vnd.oasis.opendocument.text": "Open Text (LibreOffice) форматындағы документ"
 	}
 }
