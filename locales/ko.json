@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Revi",
+			"Ykhwong"
+		]
+	},
+	"plugin-export": {
+		"export": "내보내기",
+		"exporting": "(내보내는 중...)",
+		"format-text-plain": "평문",
+		"format-application-vnd.openxmlformats-officedocument.wordprocessingml.document": "마이크로소프트 워드 문서",
+		"format-application-vnd.oasis.opendocument.text": "오픈도큐먼트 (리브레오피스)"
+	}
+}
