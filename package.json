@@ -1,6 +1,6 @@
 {
   "name": "hive-plugin-export",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "description": "Export plugin for hive.js",
   "main": "index.js",
   "dependencies": {
