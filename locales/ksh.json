@@ -7,6 +7,8 @@
 	"plugin-export": {
 		"export": "Äxpottehre",
 		"exporting": "(Aam Äxpottehre...)",
-		"format-text-plain": "Eijfach Täx"
+		"format-text-plain": "Eijfach Täx",
+		"format-application-vnd.openxmlformats-officedocument.wordprocessingml.document": "E Dokemännd em <i lang=\"en\" xml:lang=\"en\" dir=\"ltr\">Microsoft<i>-\n<i lang=\"en\" xml:lang=\"en\" dir=\"ltr\" title=\"„Woot“ - e Projramm för zem Schrihve\">Word<i>-Fommaht",
+		"format-application-vnd.oasis.opendocument.text": "E Dokemännd em <i lang=\"en\" xml:lang=\"en\" dir=\"ltr\" title=\"„Freij Bürro“ - e Projramm-Pakätt för zem Schrihve, un mih\">LibreOffice<i>- udder \n<i lang=\"en\" xml:lang=\"en\" dir=\"ltr\" title=\"„Offe Täx“\">Open-Text<i>-Fommaht"
 	}
 }
