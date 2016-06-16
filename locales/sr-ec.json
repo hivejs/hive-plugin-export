@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Rancher"
+		]
+	},
+	"plugin-export": {
+		"export": "Извези",
+		"exporting": "(Извозим…)",
+		"format-text-plain": "Обични текст",
+		"format-application-vnd.openxmlformats-officedocument.wordprocessingml.document": "Microsoft Word документ",
+		"format-application-vnd.oasis.opendocument.text": "Open Text документ (LibreOffice)"
+	}
+}
