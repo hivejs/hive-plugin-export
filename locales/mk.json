@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bjankuloski06"
+		]
+	},
+	"plugin-export": {
+		"export": "Извоз",
+		"exporting": "(Извезувам...)",
+		"format-text-plain": "Прост текст",
+		"format-application-vnd.openxmlformats-officedocument.wordprocessingml.document": "Документ на Microsoft Word",
+		"format-application-vnd.oasis.opendocument.text": "Документ на Open Text (LibreOffice)"
+	}
+}
