@@ -8,7 +8,14 @@
 		"export": "Äxpottehre",
 		"exporting": "(Aam Äxpottehre...)",
 		"format-text-plain": "Eijfach Täx",
+		"format-text-html": "<i lang=\"en\" xml:lang=\"en\" dir=\"ltr\" title=\"HyperText Markup Language\">HTML</i>",
+		"format-image-svg+xml": "<i lang=\"en\" xml:lang=\"en\" dir=\"ltr\" title=\"Scalable Vector Graphics\">SVG</i>",
+		"format-image-png": "<i lang=\"en\" xml:lang=\"en\" dir=\"ltr\" title=\"Portable Network Graphics\">PNG</i>",
+		"format-text-markdown": "<i lang=\"en\" xml:lang=\"en\" dir=\"ltr\" title=\"a lightweight markup language with plain text formatting syntax\">Markdown</i>",
+		"format-application-x-latex": "<i lang=\"en\" xml:lang=\"en\" dir=\"ltr\" title=\"„Schpresch: La-täch, wi jrihschesch; τέχ - e Projramm för der Fottosaz, vum Donald E. Knuth met Zohsäz vum Lamport“\">LaTeX</i>",
 		"format-application-vnd.openxmlformats-officedocument.wordprocessingml.document": "E Dokemännd em <i lang=\"en\" xml:lang=\"en\" dir=\"ltr\">Microsoft<i>-\n<i lang=\"en\" xml:lang=\"en\" dir=\"ltr\" title=\"„Woot“ - e Projramm för zem Schrihve\">Word<i>-Fommaht",
-		"format-application-vnd.oasis.opendocument.text": "E Dokemännd em <i lang=\"en\" xml:lang=\"en\" dir=\"ltr\" title=\"„Freij Bürro“ - e Projramm-Pakätt för zem Schrihve, un mih\">LibreOffice<i>- udder \n<i lang=\"en\" xml:lang=\"en\" dir=\"ltr\" title=\"„Offe Täx“\">Open-Text<i>-Fommaht"
+		"format-application-vnd.oasis.opendocument.text": "E Dokemännd em <i lang=\"en\" xml:lang=\"en\" dir=\"ltr\" title=\"„Freij Bürro“ - e Projramm-Pakätt för zem Schrihve, un mih\">LibreOffice<i>- udder \n<i lang=\"en\" xml:lang=\"en\" dir=\"ltr\" title=\"„Offe Täx“\">Open-Text<i>-Fommaht",
+		"format-application-docbook+xml": "<i lang=\"en\" xml:lang=\"en\" dir=\"ltr\" title=\"a semantic markup language for technical documentation\">DocBook</i>",
+		"format-application-epub+zip": "<i lang=\"en\" xml:lang=\"en\" dir=\"ltr\" title=\"Electronic Publication - „Eläktrohnesche Veröffentleschong“\">EPUB</i>"
 	}
 }
