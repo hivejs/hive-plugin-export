@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kumkumuk",
+			"Mirzali"
+		]
+	},
+	"plugin-export": {
+		"export": "Teberdayış",
+		"exporting": "(Deyeno ataber...)",
+		"format-text-plain": "Metno pan",
+		"format-application-vnd.openxmlformats-officedocument.wordprocessingml.document": "Dokumana Microsoft Wordi",
+		"format-application-vnd.oasis.opendocument.text": "Dokumana Poen Tex'i (LibreOffice)"
+	}
+}
