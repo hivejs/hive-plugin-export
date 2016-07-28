@@ -7,6 +7,7 @@
 	"plugin-export": {
 		"export": "匯出",
 		"exporting": "（匯出中...）",
+		"format-text-plain": "純文本",
 		"format-application-vnd.openxmlformats-officedocument.wordprocessingml.document": "微軟Word文件",
 		"format-application-vnd.oasis.opendocument.text": "Open Text文件（LibreOffice）"
 	}

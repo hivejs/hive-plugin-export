@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Muhammad Shuaib"
+		]
+	},
+	"plugin-export": {
+		"export": "برآمد",
+		"exporting": "(برآمد جاری ہے۔۔۔)",
+		"format-text-plain": "سادہ متن",
+		"format-application-vnd.openxmlformats-officedocument.wordprocessingml.document": "مائکروسافٹ ورڈ دستاویز",
+		"format-application-vnd.oasis.opendocument.text": "اوپن ٹیکسٹ دستاویز (لیبرے آفس)"
+	}
+}
