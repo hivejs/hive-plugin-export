@@ -9,7 +9,14 @@
 		"export": "Teberdayış",
 		"exporting": "(Deyeno ataber...)",
 		"format-text-plain": "Metno pan",
+		"format-text-html": "HTML",
+		"format-image-svg+xml": "SVG",
+		"format-image-png": "PNG",
+		"format-text-markdown": "Markdown",
+		"format-application-x-latex": "LaTex",
 		"format-application-vnd.openxmlformats-officedocument.wordprocessingml.document": "Dokumana Microsoft Wordi",
-		"format-application-vnd.oasis.opendocument.text": "Dokumana Poen Tex'i (LibreOffice)"
+		"format-application-vnd.oasis.opendocument.text": "Dokumana Poen Tex'i (LibreOffice)",
+		"format-application-docbook+xml": "DocBook",
+		"format-application-epub+zip": "EPUB"
 	}
 }
