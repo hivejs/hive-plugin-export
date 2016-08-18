@@ -1,10 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Aktron"
+			"Aktron",
+			"Zbyso23"
 		]
 	},
 	"plugin-export": {
+		"export": "Exportovat",
+		"format-text-plain": "Čistý text",
 		"format-application-vnd.openxmlformats-officedocument.wordprocessingml.document": "Dokument Aplikace Microsoft Word",
 		"format-application-vnd.oasis.opendocument.text": "Dokument Open Text (LibreOffice)"
 	}
