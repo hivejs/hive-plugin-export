@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Pon44695"
+		]
+	},
+	"plugin-export": {
+		"export": "ส่งออก",
+		"exporting": "(กำลังส่งออก...)",
+		"format-text-plain": "ข้อความล้วน",
+		"format-application-vnd.openxmlformats-officedocument.wordprocessingml.document": "ไมโครซอร์ฟเวิร์ดด็อกคิวเมนต์",
+		"format-application-vnd.oasis.opendocument.text": "เปิดเอกสารข้อความ (LibreOffice)"
+	}
+}
