@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Vishwanatha Badikana"
+		]
+	},
+	"plugin-export": {
+		"export": "ರಫ್ತು ಮಲ್ಪು",
+		"exporting": "(ರಫ್ತು ಮಲ್ಪುನೆ...)",
+		"format-text-plain": "ಸಾದಾ ಪಟ್ಯೊ",
+		"format-application-vnd.openxmlformats-officedocument.wordprocessingml.document": "ಮೈಕ್ರೋಸಾಫ್ಟ್ ವರ್ಡ್ ದಾಕಲೆ",
+		"format-application-vnd.oasis.opendocument.text": "ದೆತ್ತಿನ ಪಟ್ಯೊದ ದಾಕಲೆ (ಲಿಬ್ರೆ ಆಫೀಸ್)"
+	}
+}
