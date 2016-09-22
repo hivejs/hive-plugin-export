@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Xuacu"
+		]
+	},
+	"plugin-export": {
+		"export": "Esportar",
+		"exporting": "(Esportando...)",
+		"format-text-plain": "Testu simple",
+		"format-application-vnd.openxmlformats-officedocument.wordprocessingml.document": "Documentu de Microsoft Word",
+		"format-application-vnd.oasis.opendocument.text": "Documentu de testu abiertu (LibreOffice)"
+	}
+}
