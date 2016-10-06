@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Maroen1990",
+			"ديفيد"
+		]
+	},
+	"plugin-export": {
+		"export": "صدّر",
+		"exporting": "(تصدير ...)",
+		"format-text-plain": "نص عادي",
+		"format-application-vnd.openxmlformats-officedocument.wordprocessingml.document": "مستند مايكروسوفت وورد",
+		"format-application-vnd.oasis.opendocument.text": "وثيقة مفتوحة النص (LibreOffice)"
+	}
+}
