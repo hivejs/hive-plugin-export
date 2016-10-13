@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ilja.mos",
+			"Mashoi7"
+		]
+	},
+	"plugin-export": {
+		"export": "Vie",
+		"exporting": "(Viijäh...)",
+		"format-text-plain": "Perustekstu",
+		"format-application-vnd.openxmlformats-officedocument.wordprocessingml.document": "Microsoft Word -tiijosto",
+		"format-application-vnd.oasis.opendocument.text": "Open Text -tiijosto (LibreOffice)"
+	}
+}
