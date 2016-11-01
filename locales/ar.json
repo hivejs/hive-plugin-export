@@ -7,7 +7,7 @@
 	},
 	"plugin-export": {
 		"export": "صدّر",
-		"exporting": "(تصدير ...)",
+		"exporting": "(تصدير...)",
 		"format-text-plain": "نص عادي",
 		"format-application-vnd.openxmlformats-officedocument.wordprocessingml.document": "مستند مايكروسوفت وورد",
 		"format-application-vnd.oasis.opendocument.text": "وثيقة مفتوحة النص (LibreOffice)"
