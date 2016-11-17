@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Robby"
+		]
+	},
+	"plugin-export": {
+		"export": "Exportéieren",
+		"exporting": "(Exportatioun…)",
+		"format-text-plain": "Kloertext",
+		"format-application-vnd.openxmlformats-officedocument.wordprocessingml.document": "Microsoft-Word Dokument",
+		"format-application-vnd.oasis.opendocument.text": "Open-Text Dokument (LibreOffice)"
+	}
+}
