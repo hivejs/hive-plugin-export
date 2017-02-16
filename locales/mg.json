@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jagwar"
+		]
+	},
+	"plugin-export": {
+		"export": "Avoaka",
+		"exporting": "(Am-pamoahana...)",
+		"format-text-plain": "Soratra tsotra",
+		"format-application-vnd.openxmlformats-officedocument.wordprocessingml.document": "Tahirinkevitra Microsoft Word",
+		"format-application-vnd.oasis.opendocument.text": "Tahirinkevitra Open Text (LibreOffice)"
+	}
+}
