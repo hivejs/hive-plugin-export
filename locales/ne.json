@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"सरोज कुमार ढकाल"
+		]
+	},
+	"plugin-export": {
+		"export": "निर्यात गर्नुहोस्",
+		"exporting": "(निर्यात गर्दै...)",
+		"format-text-plain": "साधारण पाठ",
+		"format-text-html": "एचटीएमएल",
+		"format-application-vnd.openxmlformats-officedocument.wordprocessingml.document": "Microsoft Word कागजात"
+	}
+}
