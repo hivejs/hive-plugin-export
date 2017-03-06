@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Otokoume",
+			"Sujiniku"
+		]
+	},
+	"plugin-export": {
+		"export": "エクスポート",
+		"exporting": "(エクスポート中...)",
+		"format-text-plain": "平文テキスト"
+	}
+}
