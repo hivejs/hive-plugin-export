@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Hidayatsrf"
+		]
+	},
+	"plugin-export": {
+		"export": "Ekspor",
+		"format-text-plain": "Teks polos",
+		"format-application-vnd.openxmlformats-officedocument.wordprocessingml.document": "Dokumen Microsoft Word",
+		"format-application-vnd.oasis.opendocument.text": "Dokumen Open Text (LibreOffice)"
+	}
+}
