@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Subi"
+		]
+	},
+	"plugin-export": {
+		"export": "Esportatu",
+		"exporting": "(Esportatzen...)",
+		"format-text-plain": "Testu laua",
+		"format-application-vnd.openxmlformats-officedocument.wordprocessingml.document": "Microsoft Word dokumentua",
+		"format-application-vnd.oasis.opendocument.text": "Open Text dokumentua (LibreOffice)"
+	}
+}
