@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Marat-avgust"
+		]
+	},
+	"plugin-export": {
+		"export": "Экспортлау",
+		"format-text-plain": "Гади текст"
+	}
+}
