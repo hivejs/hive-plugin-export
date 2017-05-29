@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Srdjan m"
+		]
+	},
+	"plugin-export": {
+		"exporting": "(Izvozim...)",
+		"format-text-plain": "Obični tekst"
+	}
+}

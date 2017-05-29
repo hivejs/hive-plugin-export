@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"StanProg"
+		]
+	},
+	"plugin-export": {
+		"export": "Изнасяне",
+		"exporting": "(Изнасяне...)",
+		"format-text-plain": "Обикновен текст",
+		"format-application-vnd.openxmlformats-officedocument.wordprocessingml.document": "Документ на Microsoft Word",
+		"format-application-vnd.oasis.opendocument.text": "Документ във формат Open Text (LibreOffice)"
+	}
+}
