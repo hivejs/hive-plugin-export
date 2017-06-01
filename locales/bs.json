@@ -5,7 +5,10 @@
 		]
 	},
 	"plugin-export": {
+		"export": "Izvezi",
 		"exporting": "(Izvozim...)",
-		"format-text-plain": "Obični tekst"
+		"format-text-plain": "Obični tekst",
+		"format-application-vnd.openxmlformats-officedocument.wordprocessingml.document": "Microsoft Word dokument",
+		"format-application-vnd.oasis.opendocument.text": "Open Text dokument (LibreOffice)"
 	}
 }
