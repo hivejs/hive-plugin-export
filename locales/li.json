@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ooswesthoesbes"
+		]
+	},
+	"plugin-export": {
+		"export": "Veur oet",
+		"exporting": "(Oet 'nt veure...)",
+		"format-text-plain": "Teks zónger opmaak",
+		"format-application-vnd.openxmlformats-officedocument.wordprocessingml.document": "Microsoft Word-document",
+		"format-application-vnd.oasis.opendocument.text": "Open Text-document (LibreOffice)"
+	}
+}

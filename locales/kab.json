@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Belkacem77"
+		]
+	},
+	"plugin-export": {
+		"export": "Sifeḍ",
+		"exporting": "(Asifeḍ...)",
+		"format-text-plain": "Adris aččuran",
+		"format-application-vnd.openxmlformats-officedocument.wordprocessingml.document": "Isemli Microsoft Word",
+		"format-application-vnd.oasis.opendocument.text": "Isemli Open Text (LibreOffice)"
+	}
+}

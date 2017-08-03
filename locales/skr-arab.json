@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Saraiki"
+		]
+	},
+	"plugin-export": {
+		"export": "ٻاہر بھیڄو",
+		"exporting": "(ٻاہر بھیجݨ جاری ...)",
+		"format-text-plain": "سادہ متن",
+		"format-application-vnd.openxmlformats-officedocument.wordprocessingml.document": "مائیکروسافٹ ورڈ دستاویز",
+		"format-application-vnd.oasis.opendocument.text": "اوپن ٹیکسٹ دستاویز (لیبرے آفس)"
+	}
+}
