@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nikosgranturismogt"
+		]
+	},
+	"plugin-export": {
+		"export": "Εξαγωγή",
+		"exporting": "(Εξαγωγή...)",
+		"format-text-plain": "Απλό κείμενο"
+	}
+}
