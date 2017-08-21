@@ -8,6 +8,7 @@
 		"export": "Экспарт",
 		"exporting": "(Экспарт…)",
 		"format-text-plain": "Просты тэкст",
-		"format-application-vnd.openxmlformats-officedocument.wordprocessingml.document": "Дакумэнт Microsoft Word"
+		"format-application-vnd.openxmlformats-officedocument.wordprocessingml.document": "Дакумэнт Microsoft Word",
+		"format-application-vnd.oasis.opendocument.text": "Дакумэнт у фармаце Open Text (LibreOffice)"
 	}
 }
