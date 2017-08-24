@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Joedalton"
+		]
+	},
+	"plugin-export": {
+		"export": "Eksport",
+		"exporting": "(Eksporterer ...)",
+		"format-text-plain": "Almindelig tekst",
+		"format-application-vnd.openxmlformats-officedocument.wordprocessingml.document": "Microsoft Word-dokument",
+		"format-application-vnd.oasis.opendocument.text": "Åben tekst-dokument (LibreOffice)"
+	}
+}
