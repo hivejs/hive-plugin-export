@@ -7,6 +7,8 @@
 	"plugin-export": {
 		"export": "Εξαγωγή",
 		"exporting": "(Εξαγωγή...)",
-		"format-text-plain": "Απλό κείμενο"
+		"format-text-plain": "Απλό κείμενο",
+		"format-application-vnd.openxmlformats-officedocument.wordprocessingml.document": "Έγγραφο Κειμένου Microsoft",
+		"format-application-vnd.oasis.opendocument.text": "Ανοιχτό Έγγραφο Κειμένου (LibreOffice)"
 	}
 }
