@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"YaronSh"
+		]
+	},
+	"plugin-export": {
+		"export": "ייצוא",
+		"exporting": "(מתבצע ייצוא…)",
+		"format-text-plain": "טקסט פשוט",
+		"format-application-vnd.openxmlformats-officedocument.wordprocessingml.document": "מסמך מסוג Microsoft Word",
+		"format-application-vnd.oasis.opendocument.text": "מסמך טקסט פתוח (LibreOffice)"
+	}
+}
