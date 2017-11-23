@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nirajan pant"
+		]
+	},
+	"plugin-export": {
+		"export": "निर्यात",
+		"exporting": "(निर्यात अद्दाछ़...)",
+		"format-text-plain": "सादा पाठ",
+		"format-application-vnd.openxmlformats-officedocument.wordprocessingml.document": "माइक्रोसफ्ट वर्ड कागजात",
+		"format-application-vnd.oasis.opendocument.text": "खुला पाठ कागजात (लिब्रेअफीस)"
+	}
+}
