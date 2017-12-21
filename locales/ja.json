@@ -2,12 +2,15 @@
 	"@metadata": {
 		"authors": [
 			"Otokoume",
-			"Sujiniku"
+			"Sujiniku",
+			"Yusuke1109"
 		]
 	},
 	"plugin-export": {
 		"export": "エクスポート",
 		"exporting": "(エクスポート中...)",
-		"format-text-plain": "平文テキスト"
+		"format-text-plain": "平文テキスト",
+		"format-application-vnd.openxmlformats-officedocument.wordprocessingml.document": "Microsoft Word文書",
+		"format-application-vnd.oasis.opendocument.text": "Open Text文書 (LibreOffice)"
 	}
 }

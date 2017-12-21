@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Athena in Wonderland"
+		]
+	},
+	"plugin-export": {
+		"export": "Exportar",
+		"exporting": "(A exportar...)",
+		"format-text-plain": "Texto simples",
+		"format-application-vnd.openxmlformats-officedocument.wordprocessingml.document": "Documento do Microsoft Word",
+		"format-application-vnd.oasis.opendocument.text": "Abrir Documento de Texto (LibreOffice)"
+	}
+}
