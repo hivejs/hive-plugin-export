@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Андрей"
+		]
+	},
+	"plugin-export": {
+		"export": "Експорттәуп",
+		"exporting": "(Аекспорт…)",
+		"format-text-plain": "Иаабац атеқст",
+		"format-application-vnd.openxmlformats-officedocument.wordprocessingml.document": "Microsoft Word адокумент",
+		"format-application-vnd.oasis.opendocument.text": "Open Text (LibreOffice) адокумент"
+	}
+}
