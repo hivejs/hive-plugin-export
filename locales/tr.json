@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Chansey"
+		]
+	},
+	"plugin-export": {
+		"export": "Dışa aktar",
+		"exporting": "(Dışa aktarılıyor...)",
+		"format-text-plain": "Düz metin",
+		"format-application-vnd.openxmlformats-officedocument.wordprocessingml.document": "Microsoft Word Belgesi",
+		"format-application-vnd.oasis.opendocument.text": "Open Text Belgesi (LibreOffice)"
+	}
+}
