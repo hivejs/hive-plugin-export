@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Joetaras"
+		]
+	},
+	"plugin-export": {
+		"export": "Esporte",
+		"exporting": "(Stoche a esporte...)",
+		"format-text-plain": "Teste semblice",
+		"format-application-vnd.openxmlformats-officedocument.wordprocessingml.document": "Microsoft Word Document",
+		"format-application-vnd.oasis.opendocument.text": "Open Text Document (LibreOffice)"
+	}
+}
