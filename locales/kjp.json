@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Rul1902"
+		]
+	},
+	"plugin-export": {
+		"export": "မ်ုသုံ့ထင်း",
+		"exporting": "(ဆ်ုသုံ့ထင်း...)",
+		"format-application-vnd.openxmlformats-officedocument.wordprocessingml.document": "Microsoft Word Document"
+	}
+}
