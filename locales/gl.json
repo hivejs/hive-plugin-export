@@ -1,14 +1,22 @@
 {
 	"@metadata": {
 		"authors": [
-			"Elisardojm"
+			"Elisardojm",
+			"Navhy"
 		]
 	},
 	"plugin-export": {
 		"export": "Exportar",
 		"exporting": "(Exportando...)",
 		"format-text-plain": "Texto sen formato",
+		"format-text-html": "HTML",
+		"format-image-svg+xml": "SVG",
+		"format-image-png": "PNG",
+		"format-text-markdown": "Marcaxe",
+		"format-application-x-latex": "LaTex",
 		"format-application-vnd.openxmlformats-officedocument.wordprocessingml.document": "Documento de Microsoft Word",
-		"format-application-vnd.oasis.opendocument.text": "Documento de texto abierto (LibreOffice)"
+		"format-application-vnd.oasis.opendocument.text": "Documento de texto aberto (LibreOffice)",
+		"format-application-docbook+xml": "DocBook",
+		"format-application-epub+zip": "EPUB"
 	}
 }
