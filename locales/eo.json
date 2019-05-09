@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mirin",
+			"Robin van der Vliet"
+		]
+	},
+	"plugin-export": {
+		"export": "Elporti",
+		"exporting": "(Elportante...)",
+		"format-text-plain": "Plata teksto",
+		"format-application-vnd.openxmlformats-officedocument.wordprocessingml.document": "Dokumento de Microsoft Word",
+		"format-application-vnd.oasis.opendocument.text": "Malfermita Teksta Dokumento (LibreOffice)"
+	}
+}
